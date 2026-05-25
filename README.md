@@ -1,2 +1,2 @@
 # Algoritmo
-Algoritmo
+Algoritmo.
